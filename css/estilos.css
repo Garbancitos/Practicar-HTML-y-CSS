@@ -15,7 +15,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 1rem;
+    padding: 1rem;
 }
 
 .menu {
@@ -27,6 +27,8 @@ img {
 .menu li a{
     text-decoration: none;
     color: white;
+    padding: 0.5rem 1rem;
+    display: inline-block;
 }
 
 .menu li a:hover{
